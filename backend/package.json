@@ -1,0 +1,23 @@
+{
+	"name": "@marketplace/backend",
+	"private": true,
+	"scripts": {
+		"clean": "git clean -xdf .expo .turbo node_modules",
+		"dev": "tsx --watch src/index.ts",
+		"build": "node script/build.js"
+	},
+	"dependencies": {
+		"@marketplace/api": "*",
+		"@marketplace/db": "*",
+		"@marketplace/socket": "*",
+		"axios": "^1.6.7",
+		"bignumber.js": "^9.1.2",
+		"esbuild": "^0.20.1",
+		"ethers": "^4.0.39",
+		"typescript": "^5.2.2"
+	},
+	"devDependencies": {
+		"tsup": "^8.0.2",
+		"tsx": "^4.7.1"
+	}
+}

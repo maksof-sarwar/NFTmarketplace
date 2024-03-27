@@ -1,0 +1,8 @@
+git clone https://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@github.com/loopingdev/NFTmarketplace.git
+
+git remote set-url origin https://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@github.com/loopingdev/NFTmarketplace.git
+
+username : nft
+password : NFT123@
+IP : 109.199.99.26
+

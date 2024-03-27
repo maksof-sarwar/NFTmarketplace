@@ -1,0 +1,22 @@
+{
+	"name": "@marketplace/api",
+	"version": "0.1.0",
+	"license": "MIT",
+	"exports": {
+		".": "./src/index.ts",
+		"./schema": "./src/schema/index.ts",
+		"./getAllTraits": "./src/lib/get-all-trait.ts"
+	},
+	"scripts": {
+		"clean": "git clean -xdf dist .turbo node_modules",
+		"with-env": "dotenv -e ../.env --"
+	},
+	"dependencies": {
+		"@tanstack/react-query": "^5.17.9",
+		"@trpc/client": "next",
+		"@trpc/react-query": "next",
+		"@trpc/server": "next",
+		"@trpc/next": "next",
+		"@marketplace/db": "*"
+	}
+}

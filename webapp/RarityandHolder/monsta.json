@@ -1,0 +1,2375 @@
+{
+  "metadata": {
+    "1": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/1.png",
+      "updatedAt": 1628987006639,
+      "createdAt": 1628987006639,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "1",
+      "name": "Monster #1",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "2": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/2.png",
+      "updatedAt": 1628988068454,
+      "createdAt": 1628988068454,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Conductor Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "2",
+      "name": "Monster #2",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "3": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/3.png",
+      "updatedAt": 1628986982799,
+      "createdAt": 1628986982799,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Tie Dye Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Ghost",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "3",
+      "name": "Monster #3",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "4": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/4.png",
+      "updatedAt": 1628987051484,
+      "createdAt": 1628987051484,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Ghost",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "4",
+      "name": "Monster #4",
+      "rarity": {
+        "totalRarityScore": 2462.745098039215,
+        "rank": 40
+      }
+    },
+    "5": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/5.png",
+      "updatedAt": 1628987014739,
+      "createdAt": 1628987014739,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Dracula",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Diamond Stud",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Cowboy Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Owl",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "5",
+      "name": "Monster #5",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "6": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/6.png",
+      "updatedAt": 1628988463731,
+      "createdAt": 1628988463731,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Rasta Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Ferret",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        },
+        {
+          "value": "Tornado",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "6",
+      "name": "Monster #6",
+      "rarity": {
+        "totalRarityScore": 5478.431372549019,
+        "rank": 1
+      }
+    },
+    "7": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/7.png",
+      "updatedAt": 1628987903703,
+      "createdAt": 1628987903703,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        }
+      ],
+      "id": "7",
+      "name": "Monster #7",
+      "rarity": {
+        "totalRarityScore": 1827.4509803921565,
+        "rank": 46
+      }
+    },
+    "8": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/8.png",
+      "updatedAt": 1628987617529,
+      "createdAt": 1628987617529,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Orange Beanie",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        }
+      ],
+      "id": "8",
+      "name": "Monster #8",
+      "rarity": {
+        "totalRarityScore": 1545.0980392156857,
+        "rank": 48
+      }
+    },
+    "9": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/9.png",
+      "updatedAt": 1628986804699,
+      "createdAt": 1628986804699,
+      "attributes": [
+        {
+          "value": "Lab",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Chain",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Company Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spider",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "9",
+      "name": "Monster #9",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "10": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/10.png",
+      "updatedAt": 1628988518659,
+      "createdAt": 1628988518659,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Skull Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Chain",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "10",
+      "name": "Monster #10",
+      "rarity": {
+        "totalRarityScore": 3980.3921568627447,
+        "rank": 15
+      }
+    },
+    "11": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/11.png",
+      "updatedAt": 1628987336020,
+      "createdAt": 1628987336020,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Peace Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Ferret",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "11",
+      "name": "Monster #11",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "12": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/12.png",
+      "updatedAt": 1628987809575,
+      "createdAt": 1628987809575,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Why Be?",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        }
+      ],
+      "id": "12",
+      "name": "Monster #12",
+      "rarity": {
+        "totalRarityScore": 2780.3921568627447,
+        "rank": 35
+      }
+    },
+    "13": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/13.png",
+      "updatedAt": 1628987043844,
+      "createdAt": 1628987043844,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Hawaiian Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        }
+      ],
+      "id": "13",
+      "name": "Monster #13",
+      "rarity": {
+        "totalRarityScore": 1545.0980392156857,
+        "rank": 48
+      }
+    },
+    "14": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/14.png",
+      "updatedAt": 1628987070331,
+      "createdAt": 1628987070331,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Ripped Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Peace Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Cat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "14",
+      "name": "Monster #14",
+      "rarity": {
+        "totalRarityScore": 3980.3921568627447,
+        "rank": 15
+      }
+    },
+    "15": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/15.png",
+      "updatedAt": 1628988117968,
+      "createdAt": 1628988117968,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        }
+      ],
+      "id": "15",
+      "name": "Monster #15",
+      "rarity": {
+        "totalRarityScore": 3062.7450980392155,
+        "rank": 33
+      }
+    },
+    "16": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/16.png",
+      "updatedAt": 1628986713264,
+      "createdAt": 1628986713264,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Company Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "16",
+      "name": "Monster #16",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "17": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/17.png",
+      "updatedAt": 1628988868190,
+      "createdAt": 1628988868190,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spotted Rat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "17",
+      "name": "Monster #17",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "18": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/18.png",
+      "updatedAt": 1628988795885,
+      "createdAt": 1628988795885,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Snapback",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spider",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "18",
+      "name": "Monster #18",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "19": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/19.png",
+      "updatedAt": 1628989081728,
+      "createdAt": 1628989081728,
+      "attributes": [
+        {
+          "value": "Lab",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "19",
+      "name": "Monster #19",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "20": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/20.png",
+      "updatedAt": 1628988751109,
+      "createdAt": 1628988751109,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "20",
+      "name": "Monster #20",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "21": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/21.png",
+      "updatedAt": 1628988904888,
+      "createdAt": 1628988904888,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Cat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "21",
+      "name": "Monster #21",
+      "rarity": {
+        "totalRarityScore": 3980.3921568627447,
+        "rank": 15
+      }
+    },
+    "22": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/22.png",
+      "updatedAt": 1628988816967,
+      "createdAt": 1628988816967,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Skull Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Company Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "22",
+      "name": "Monster #22",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "23": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/23.png",
+      "updatedAt": 1628986811316,
+      "createdAt": 1628986811316,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Peace Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Ghost",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "23",
+      "name": "Monster #23",
+      "rarity": {
+        "totalRarityScore": 3980.3921568627447,
+        "rank": 15
+      }
+    },
+    "24": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/24.png",
+      "updatedAt": 1628989249028,
+      "createdAt": 1628989249028,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Construction Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spider",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "24",
+      "name": "Monster #24",
+      "rarity": {
+        "totalRarityScore": 2462.745098039215,
+        "rank": 40
+      }
+    },
+    "25": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/25.png",
+      "updatedAt": 1628987293115,
+      "createdAt": 1628987293115,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Cowboy Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "25",
+      "name": "Monster #25",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "26": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/26.png",
+      "updatedAt": 1628988944388,
+      "createdAt": 1628988944388,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Snapback",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Blimp",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "26",
+      "name": "Monster #26",
+      "rarity": {
+        "totalRarityScore": 3309.803921568627,
+        "rank": 32
+      }
+    },
+    "27": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/27.png",
+      "updatedAt": 1628988836733,
+      "createdAt": 1628988836733,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Rasta Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "27",
+      "name": "Monster #27",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "28": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/28.png",
+      "updatedAt": 1628988799239,
+      "createdAt": 1628988799239,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Chain",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Alien Beam",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "28",
+      "name": "Monster #28",
+      "rarity": {
+        "totalRarityScore": 2356.862745098039,
+        "rank": 45
+      }
+    },
+    "29": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/29.png",
+      "updatedAt": 1628988333309,
+      "createdAt": 1628988333309,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Peace Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "29",
+      "name": "Monster #29",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "30": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/30.png",
+      "updatedAt": 1628988839322,
+      "createdAt": 1628988839322,
+      "attributes": [
+        {
+          "value": "Lab",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Poet Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Ghost",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "30",
+      "name": "Monster #30",
+      "rarity": {
+        "totalRarityScore": 2729.4117647058815,
+        "rank": 38
+      }
+    },
+    "31": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/31.png",
+      "updatedAt": 1628989116827,
+      "createdAt": 1628989116827,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Orange Beanie",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Owl",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        },
+        {
+          "value": "Blimp",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "31",
+      "name": "Monster #31",
+      "rarity": {
+        "totalRarityScore": 2992.1568627450974,
+        "rank": 34
+      }
+    },
+    "32": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/32.png",
+      "updatedAt": 1628986896441,
+      "createdAt": 1628986896441,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Cloves of Garlic",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Orange Beanie",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "32",
+      "name": "Monster #32",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "33": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/33.png",
+      "updatedAt": 1628988952967,
+      "createdAt": 1628988952967,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Snapback",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Fairy",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "33",
+      "name": "Monster #33",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "34": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/34.png",
+      "updatedAt": 1628988806588,
+      "createdAt": 1628988806588,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Skull Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Chain",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Cowboy Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "34",
+      "name": "Monster #34",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "35": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/35.png",
+      "updatedAt": 1628988989497,
+      "createdAt": 1628988989497,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        }
+      ],
+      "id": "35",
+      "name": "Monster #35",
+      "rarity": {
+        "totalRarityScore": 1827.4509803921565,
+        "rank": 46
+      }
+    },
+    "36": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/36.png",
+      "updatedAt": 1628990334272,
+      "createdAt": 1628990334272,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Rasta Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Owl",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        },
+        {
+          "value": "Tornado",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "36",
+      "name": "Monster #36",
+      "rarity": {
+        "totalRarityScore": 4243.137254901961,
+        "rank": 14
+      }
+    },
+    "37": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/37.png",
+      "updatedAt": 1628988755594,
+      "createdAt": 1628988755594,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Construction Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "37",
+      "name": "Monster #37",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "38": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/38.png",
+      "updatedAt": 1628988812532,
+      "createdAt": 1628988812532,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Poet Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Rasta Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "38",
+      "name": "Monster #38",
+      "rarity": {
+        "totalRarityScore": 2462.745098039215,
+        "rank": 40
+      }
+    },
+    "39": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/39.png",
+      "updatedAt": 1628988802811,
+      "createdAt": 1628988802811,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Bad Actors",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Weed Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Construction Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spotted Rat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "39",
+      "name": "Monster #39",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "40": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/40.png",
+      "updatedAt": 1628988887790,
+      "createdAt": 1628988887790,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Tooth Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Company Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Blimp",
+          "trait_type": "Background Special",
+          "score": 529.4117647058823,
+          "traitCount": 6
+        }
+      ],
+      "id": "40",
+      "name": "Monster #40",
+      "rarity": {
+        "totalRarityScore": 4560.78431372549,
+        "rank": 13
+      }
+    },
+    "41": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/41.png",
+      "updatedAt": 1628988995306,
+      "createdAt": 1628988995306,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blood Stained Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Snapback",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Angel",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "41",
+      "name": "Monster #41",
+      "rarity": {
+        "totalRarityScore": 2462.745098039215,
+        "rank": 40
+      }
+    },
+    "42": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/42.png",
+      "updatedAt": 1628989088998,
+      "createdAt": 1628989088998,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Ripped Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Orange Beanie",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        }
+      ],
+      "id": "42",
+      "name": "Monster #42",
+      "rarity": {
+        "totalRarityScore": 2780.3921568627447,
+        "rank": 35
+      }
+    },
+    "43": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/43.png",
+      "updatedAt": 1628988890199,
+      "createdAt": 1628988890199,
+      "attributes": [
+        {
+          "value": "Castle",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Dracula",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Why Be?",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Spotted Rat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "43",
+      "name": "Monster #43",
+      "rarity": {
+        "totalRarityScore": 2745.0980392156857,
+        "rank": 37
+      }
+    },
+    "44": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/44.png",
+      "updatedAt": 1628988004612,
+      "createdAt": 1628988004612,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Company Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Bat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "44",
+      "name": "Monster #44",
+      "rarity": {
+        "totalRarityScore": 2462.745098039215,
+        "rank": 40
+      }
+    },
+    "45": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/45.png",
+      "updatedAt": 1628989069783,
+      "createdAt": 1628989069783,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Diamond Stud",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Why Be?",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Blue Cap",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Cat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "45",
+      "name": "Monster #45",
+      "rarity": {
+        "totalRarityScore": 3698.039215686274,
+        "rank": 25
+      }
+    },
+    "46": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/46.png",
+      "updatedAt": 1628988009518,
+      "createdAt": 1628988009518,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Wolfman",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "Instrinic Value Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Fairy",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "46",
+      "name": "Monster #46",
+      "rarity": {
+        "totalRarityScore": 2729.4117647058815,
+        "rank": 38
+      }
+    },
+    "47": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/47.png",
+      "updatedAt": 1628987827232,
+      "createdAt": 1628987827232,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Zombie",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Gold Chain",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Construction Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Crow",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "47",
+      "name": "Monster #47",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    },
+    "48": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/48.png",
+      "updatedAt": 1628989761088,
+      "createdAt": 1628989761088,
+      "attributes": [
+        {
+          "value": "Woods",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Dracula",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "FM Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Bone Necklace",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Orange Beanie",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Cat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "48",
+      "name": "Monster #48",
+      "rarity": {
+        "totalRarityScore": 3713.725490196078,
+        "rank": 19
+      }
+    },
+    "49": {
+      "image": "https://nft-asset-bucket.s3.amazonaws.com/49.png",
+      "updatedAt": 1628989827949,
+      "createdAt": 1628989827949,
+      "attributes": [
+        {
+          "value": "Cemetary",
+          "trait_type": "Background",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Frankenstein",
+          "trait_type": "Character",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Silver Hoop Earing",
+          "trait_type": "Earings",
+          "score": 1235.2941176470588,
+          "traitCount": 30
+        },
+        {
+          "value": "That's Fine Shirt",
+          "trait_type": "Clothing",
+          "score": 192.15686274509778,
+          "traitCount": 49
+        },
+        {
+          "value": "Peace Sign",
+          "trait_type": "Necklace",
+          "score": 1250.9803921568632,
+          "traitCount": 29
+        },
+        {
+          "value": "Conductor Hat",
+          "trait_type": "Hat",
+          "score": 968.6274509803924,
+          "traitCount": 38
+        },
+        {
+          "value": "Spotted Rat",
+          "trait_type": "Pet",
+          "score": 917.6470588235293,
+          "traitCount": 39
+        }
+      ],
+      "id": "49",
+      "name": "Monster #49",
+      "rarity": {
+        "totalRarityScore": 4949.019607843137,
+        "rank": 2
+      }
+    }
+  }
+}

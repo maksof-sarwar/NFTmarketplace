@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NFT Marketplace</title>
+  <script src="https://cdn.jsdelivr.net/npm/web3@1.3.5/dist/web3.min.js"></script>
+</head>
+<body>
+  <h1>NFT Marketplace</h1>
+  
+  <p>Connect your wallet to get started.</p>
+
+  <button id="connectWalletButton">Connect Wallet</button>
+
+  <div id="listings"></div>
+
+  <h2>List NFT for Sale</h2>
+  <form id="listNftForm">
+    <label for="nftContract">NFT Contract Address:</label>
+    <input type="text" id="nftContract" required><br>
+    <label for="tokenId">Token ID:</label>
+    <input type="text" id="tokenId" required><br>
+    <label for="price">Price (ETH):</label>
+    <input type="text" id="price" required><br>
+    <button type="submit">List NFT</button>
+  </form>
+
+  <h2>Buy NFT</h2>
+  <form id="buyNftForm">
+    <label for="listingId">Listing ID:</label>
+    <input type="text" id="listingId" required><br>
+    <div id="listingInfo"></div> <!-- Display listing info here -->
+    <button type="submit">Buy NFT</button>
+  </form>
+
+  <h2>Cancel Listing</h2>
+  <form id="cancelListingForm">
+    <label for="cancelListingId">Listing ID:</label>
+    <input type="text" id="cancelListingId" required><br>
+    <button type="submit">Cancel Listing</button>
+  </form>
+
+  <script>
+    // Initialize web3
+    let web3;
+
+    // Check if Web3 is injected by the browser (MetaMask)
+    if (window.ethereum) {
+      web3 = new Web3(window.ethereum);
+      // Request account access if needed
+      window.ethereum.enable();
+    } else {
+      console.log('Non-Ethereum browser detected. You should consider trying MetaMask!');
+    }
+
+    const contractAddress = '0x7dFe64c0bd76335bA7Ab3dD70612217405FaD9FA'; // Replace with your contract address
+    const abi = [
+
+    {
+    "inputs": [
+      {
+        "internalType": "address",
+        "name": "_operator",
+        "type": "address"
+      },
+      {
+        "internalType": "bool",
+        "name": "_approved",
+        "type": "bool"
+      }
+    ],
+    "name": "setApprovalForAll",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_listingId",
+				"type": "uint256"
+			}
+		],
+		"name": "buyNFT",
+		"outputs": [],
+		"stateMutability": "payable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_listingId",
+				"type": "uint256"
+			}
+		],
+		"name": "cancelListing",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "_feePercentage",
+				"type": "uint256"
+			},
+			{
+				"internalType": "address payable",
+				"name": "_platformAddress",
+				"type": "address"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "sender",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "EtherReceived",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "receiver",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "amount",
+				"type": "uint256"
+			}
+		],
+		"name": "FeeWithdrawn",
+		"type": "event"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "_nftContract",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "_tokenId",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "_price",
+				"type": "uint256"
+			}
+		],
+		"name": "listNFT",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "uint256",
+				"name": "listingId",
+				"type": "uint256"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "seller",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "nftContract",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "tokenId",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "price",
+				"type": "uint256"
+			}
+		],
+		"name": "NFTListed",
+		"type": "event"
+	},
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "seller",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "buyer",
+				"type": "address"
+			},
+			{
+				"indexed": true,
+				"internalType": "address",
+				"name": "nftContract",
+				"type": "address"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "tokenId",
+				"type": "uint256"
+			},
+			{
+				"indexed": false,
+				"internalType": "uint256",
+				"name": "price",
+				"type": "uint256"
+			}
+		],
+		"name": "NFTSold",
+		"type": "event"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			},
+			{
+				"internalType": "bytes",
+				"name": "",
+				"type": "bytes"
+			}
+		],
+		"name": "onERC721Received",
+		"outputs": [
+			{
+				"internalType": "bytes4",
+				"name": "",
+				"type": "bytes4"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "withdrawAll",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"stateMutability": "payable",
+		"type": "receive"
+	},
+	{
+		"inputs": [],
+		"name": "feePercentage",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"name": "listings",
+		"outputs": [
+			{
+				"internalType": "address",
+				"name": "seller",
+				"type": "address"
+			},
+			{
+				"internalType": "address",
+				"name": "nftContract",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "tokenId",
+				"type": "uint256"
+			},
+			{
+				"internalType": "uint256",
+				"name": "price",
+				"type": "uint256"
+			},
+			{
+				"internalType": "bool",
+				"name": "active",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "nextListingId",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "platformAddress",
+		"outputs": [
+			{
+				"internalType": "address payable",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+];
+
+    const marketplaceContract = new web3.eth.Contract(abi, contractAddress);
+
+    document.getElementById('connectWalletButton').addEventListener('click', async () => {
+      const accounts = await web3.eth.getAccounts();
+      if (accounts.length === 0) {
+        alert('Please connect your wallet first!');
+        return;
+      }
+
+      // Now you can interact with your marketplace contract
+      displayListings();
+    });
+
+    document.getElementById('listNftForm').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const nftContract = document.getElementById('nftContract').value;
+      const tokenId = document.getElementById('tokenId').value;
+      const price = web3.utils.toWei(document.getElementById('price').value, 'ether');
+      
+      const accounts = await web3.eth.getAccounts();
+      const nftContractInstance = new web3.eth.Contract(abi, nftContract);
+      await nftContractInstance.methods.setApprovalForAll(contractAddress, true).send({ from: accounts[0] });
+      console.log('Approval set for NFT contract.');
+      
+      await marketplaceContract.methods.listNFT(nftContract, tokenId, price).send({ from: accounts[0] });
+      console.log('NFT listed successfully');
+      displayListings();
+    });
+
+
+    document.getElementById('buyNftForm').addEventListener('submit', async (event) => {
+  event.preventDefault();
+  const listingId = document.getElementById('listingId').value;
+  
+  const listing = await marketplaceContract.methods.listings(listingId).call(); // Fetch listing info
+  if (!listing.active) {
+    alert('NFT is not listed for sale.');
+    return;
+  }
+
+  const totalPrice = listing.price;
+
+  // Proceed with buying the NFT
+  const accounts = await web3.eth.getAccounts();
+  const platformAddress = '0xdF5E61749f2a84287822Cb5748DC65B7c975C24E'; // Replace with your platform address
+
+  // Call the buyNFT function with the calculated total price
+  await marketplaceContract.methods.buyNFT(listingId).send({ from: accounts[0], value: totalPrice, gas: 3000000 })
+
+    .on('receipt', function(receipt){
+        console.log('NFT bought successfully');
+        displayListings();
+    })
+    .on('error', function(error) {
+        console.error('Error buying NFT:', error);
+    });
+
+});
+
+
+
+
+
+    document.getElementById('cancelListingForm').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const listingId = document.getElementById('cancelListingId').value;
+      
+      const accounts = await web3.eth.getAccounts();
+      await marketplaceContract.methods.cancelListing(listingId).send({ from: accounts[0] });
+      console.log('Listing canceled successfully');
+      displayListings();
+    });
+
+    async function displayListings() {
+      const listingsElement = document.getElementById('listings');
+      listingsElement.innerHTML = '<h2>Listings</h2>';
+
+      const totalListings = await marketplaceContract.methods.nextListingId().call();
+      for (let i = 0; i < totalListings; i++) {
+        const listing = await marketplaceContract.methods.listings(i).call();
+        const listingElement = document.createElement('div');
+        listingElement.innerHTML = `
+          <p>Listing ID: ${i}</p>
+          <p>NFT Contract: ${listing.nftContract}</p>
+          <p>Token ID: ${listing.tokenId}</p>
+          <p>Price: ${web3.utils.fromWei(listing.price, 'ether')} ETH</p>
+        `;
+        listingsElement.appendChild(listingElement);
+      }
+    }
+  </script>
+</body>
+</html>

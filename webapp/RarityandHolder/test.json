@@ -1,0 +1,5883 @@
+{
+  "metadataMap": {
+    "1": {
+      "id": "1",
+      "name": "Swoops #1",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/1.png",
+      "dna": "8052fcfef77c5395882278bde8e5a3e055a25438",
+      "edition": 1,
+      "date": 1709894870387,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Man Bun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "2": {
+      "id": "2",
+      "name": "Swoops #2",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/2.png",
+      "dna": "24efb2304b1b9f5332eaba3f2c56282eb2eabad1",
+      "edition": 2,
+      "date": 1709894871115,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "King of Pop ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "3": {
+      "id": "3",
+      "name": "Swoops #3",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/3.png",
+      "dna": "ef11738721ae603f5e0203e969248f34afb178ef",
+      "edition": 3,
+      "date": 1709894871940,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Silver Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Jester ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "4": {
+      "id": "4",
+      "name": "Swoops #4",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/4.png",
+      "dna": "aa862f4d7115cca296fb7fdc338b35b6fbed8417",
+      "edition": 4,
+      "date": 1709894872743,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Eplays 80s Tracksuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aussie Cork ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "5": {
+      "id": "5",
+      "name": "Swoops #5",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/5.png",
+      "dna": "9fc6d9adaf582523108a9b70eb5f615a0421a366",
+      "edition": 5,
+      "date": 1709894873479,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Raven ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "6": {
+      "id": "6",
+      "name": "Swoops #6",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/6.png",
+      "dna": "32507591895e1372a11c5b1c25db2e10e94b9a61",
+      "edition": 6,
+      "date": 1709894874202,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Topgun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Pirate ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aussie Cork ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "7": {
+      "id": "7",
+      "name": "Swoops #7",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/7.png",
+      "dna": "f62681c543cab0b54bf5c3db654b68d5baa8dae9",
+      "edition": 7,
+      "date": 1709894874896,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "8": {
+      "id": "8",
+      "name": "Swoops #8",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/8.png",
+      "dna": "2087a03d39345ff6dd1524c1fd7849cbea903d09",
+      "edition": 8,
+      "date": 1709894875493,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Dreads ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "9": {
+      "id": "9",
+      "name": "Swoops #9",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/9.png",
+      "dna": "0ff0b36292002ac1fd56036470fb46aa9b96f883",
+      "edition": 9,
+      "date": 1709894876428,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Silver Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Navy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "10": {
+      "id": "10",
+      "name": "Swoops #10",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/10.png",
+      "dna": "246a6ea22bc69cdd97b71c5458fe1879ea9f9c44",
+      "edition": 10,
+      "date": 1709894877791,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Silver Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "11": {
+      "id": "11",
+      "name": "Swoops #11",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/11.png",
+      "dna": "fc3715485a4f8ecb619a50ae0351f8e858426f14",
+      "edition": 11,
+      "date": 1709894879249,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Swoops Guernsey ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aviator ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "12": {
+      "id": "12",
+      "name": "Swoops #12",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/12.png",
+      "dna": "cc32e51709473b47fc93486290e35becd7403594",
+      "edition": 12,
+      "date": 1709894880290,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ice ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Eplays 80s Tracksuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "13": {
+      "id": "13",
+      "name": "Swoops #13",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/13.png",
+      "dna": "7bf9ae3610a1726447325407540a3c8795ecced8",
+      "edition": 13,
+      "date": 1709894881342,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "14": {
+      "id": "14",
+      "name": "Swoops #14",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/14.png",
+      "dna": "5ee5bdc5bcd7fc3898ecc48c4fe18c04ca1bc2bd",
+      "edition": 14,
+      "date": 1709894882850,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Dreads ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "15": {
+      "id": "15",
+      "name": "Swoops #15",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/15.png",
+      "dna": "bfbd5843e0a535c7c366b0aad21e7a4ed6fb6eee",
+      "edition": 15,
+      "date": 1709894883950,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "60s Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "16": {
+      "id": "16",
+      "name": "Swoops #16",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/16.png",
+      "dna": "cf733bd1533febdece40bab9665c56ae2ab48b6e",
+      "edition": 16,
+      "date": 1709894884766,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Bikie Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "17": {
+      "id": "17",
+      "name": "Swoops #17",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/17.png",
+      "dna": "b34bbf3c62da939d62de2e2b3dcd7e6b420949c5",
+      "edition": 17,
+      "date": 1709894886010,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Eplays 80s Tracksuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Branded Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "18": {
+      "id": "18",
+      "name": "Swoops #18",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/18.png",
+      "dna": "164ae7005cefc431deb63f8fc9bc8abd0bab5e4f",
+      "edition": 18,
+      "date": 1709894887109,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ice ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Farmer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "19": {
+      "id": "19",
+      "name": "Swoops #19",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/19.png",
+      "dna": "96170a4ad81ec86b9d7bc80b7065c1fd04625af9",
+      "edition": 19,
+      "date": 1709894887998,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "20": {
+      "id": "20",
+      "name": "Swoops #20",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/20.png",
+      "dna": "08b04b66996e0187a03c1eebe63b6eb7a62ba01f",
+      "edition": 20,
+      "date": 1709894888813,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aussie Cork ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "21": {
+      "id": "21",
+      "name": "Swoops #21",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/21.png",
+      "dna": "4a0fdc88aaba67609274f1120b25dad3f54a8031",
+      "edition": 21,
+      "date": 1709894889673,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Navy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Pirate ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "22": {
+      "id": "22",
+      "name": "Swoops #22",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/22.png",
+      "dna": "4896672a74f54693ead8a49c498ddfd136e15cd2",
+      "edition": 22,
+      "date": 1709894890568,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Swoops Guernsey ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "23": {
+      "id": "23",
+      "name": "Swoops #23",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/23.png",
+      "dna": "2091047734e02641f10fea114f11abe260bd73c3",
+      "edition": 23,
+      "date": 1709894891213,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Topgun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "24": {
+      "id": "24",
+      "name": "Swoops #24",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/24.png",
+      "dna": "95c3398d321432e9fdfbd0d75fdbdc67cb6a63f1",
+      "edition": 24,
+      "date": 1709894892047,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "25": {
+      "id": "25",
+      "name": "Swoops #25",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/25.png",
+      "dna": "93909bba15df3424e8f3af93eb746fe1d8abae9a",
+      "edition": 25,
+      "date": 1709894893060,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Tank Hoodie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Man Bun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "26": {
+      "id": "26",
+      "name": "Swoops #26",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/26.png",
+      "dna": "288d1d1154b31e72d91fef18a1d99c5cbcab923a",
+      "edition": 26,
+      "date": 1709894894058,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "MJ ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aviator ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "27": {
+      "id": "27",
+      "name": "Swoops #27",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/27.png",
+      "dna": "271cbde20beb41f6afc3ee1e16c97447ad02d73f",
+      "edition": 27,
+      "date": 1709894894913,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Space Helmet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "28": {
+      "id": "28",
+      "name": "Swoops #28",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/28.png",
+      "dna": "d9526e71aa4a11e9b836dc895461697402f41ea5",
+      "edition": 28,
+      "date": 1709894895592,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Coloured ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bleach Blond ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "29": {
+      "id": "29",
+      "name": "Swoops #29",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/29.png",
+      "dna": "d0653c09b316b77f3382e104ab5eacd287de22a9",
+      "edition": 29,
+      "date": 1709894896382,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Golden Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crocodile Dundee ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "30": {
+      "id": "30",
+      "name": "Swoops #30",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/30.png",
+      "dna": "edcd0b281a9c5ac18bb6f3125e66013d865ff8d8",
+      "edition": 30,
+      "date": 1709894897317,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rainbow Mohawk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "31": {
+      "id": "31",
+      "name": "Swoops #31",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/31.png",
+      "dna": "76941d9ecaefa96fba683de301669ae1743ae39e",
+      "edition": 31,
+      "date": 1709894898789,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Golden Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Checkered ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "32": {
+      "id": "32",
+      "name": "Swoops #32",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/32.png",
+      "dna": "d87f6ea5c94a45353db6349a3dde115f4bcec173",
+      "edition": 32,
+      "date": 1709894900176,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Branded Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "33": {
+      "id": "33",
+      "name": "Swoops #33",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/33.png",
+      "dna": "51fa72d8bb4e6d7359d5a8cb0195d96b44fc22c9",
+      "edition": 33,
+      "date": 1709894901318,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Jester ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "34": {
+      "id": "34",
+      "name": "Swoops #34",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/34.png",
+      "dna": "c5803b1bea0cc5070ae078e85bf5e1ebfc894bac",
+      "edition": 34,
+      "date": 1709894902467,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Raven ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rainbow Mohawk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "35": {
+      "id": "35",
+      "name": "Swoops #35",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/35.png",
+      "dna": "2fe858c7ffdd23aac4756feb1495ec1c4833ffe9",
+      "edition": 35,
+      "date": 1709894903769,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Farmer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bleach Blond ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "36": {
+      "id": "36",
+      "name": "Swoops #36",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/36.png",
+      "dna": "3b5bce0ad5afc9e3d50e7f99b1f09304e75759b4",
+      "edition": 36,
+      "date": 1709894904838,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "37": {
+      "id": "37",
+      "name": "Swoops #37",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/37.png",
+      "dna": "9f98e31a2367ccf373aacb176d82bf2fbed4c8ed",
+      "edition": 37,
+      "date": 1709894906011,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Bikie Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Halo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "38": {
+      "id": "38",
+      "name": "Swoops #38",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/38.png",
+      "dna": "fe9e430af01e28a6fc3d6f54f965be54b074224b",
+      "edition": 38,
+      "date": 1709894907007,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ice ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Branded Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "39": {
+      "id": "39",
+      "name": "Swoops #39",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/39.png",
+      "dna": "4475f1b524bac63e8af624673cc67785943d782d",
+      "edition": 39,
+      "date": 1709894908003,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandana ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "40": {
+      "id": "40",
+      "name": "Swoops #40",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/40.png",
+      "dna": "e4f7928b83b816b800ddc8f2e37c78db81f99675",
+      "edition": 40,
+      "date": 1709894909156,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Golden Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Spacesuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandages ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "41": {
+      "id": "41",
+      "name": "Swoops #41",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/41.png",
+      "dna": "368a9df3b020b5f6ac52777830721e3bc4f1de79",
+      "edition": 41,
+      "date": 1709894910163,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Mustard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "42": {
+      "id": "42",
+      "name": "Swoops #42",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/42.png",
+      "dna": "d09c28cf4b51b55e2e58963885d587312867ca17",
+      "edition": 42,
+      "date": 1709894911286,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Swoops Guernsey ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Halo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "43": {
+      "id": "43",
+      "name": "Swoops #43",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/43.png",
+      "dna": "220e881761f66e884264f4ca661e55d0f53e0e1e",
+      "edition": 43,
+      "date": 1709894912613,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Bikie Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Pirate ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Jester ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "44": {
+      "id": "44",
+      "name": "Swoops #44",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/44.png",
+      "dna": "a1eae62fef9e51278fc3afa67e1f828ba23ad9c0",
+      "edition": 44,
+      "date": 1709894913706,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Eplays 80s Tracksuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "45": {
+      "id": "45",
+      "name": "Swoops #45",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/45.png",
+      "dna": "2a8e470e50ee2b6097f7057f5dac1f374c67ffd1",
+      "edition": 45,
+      "date": 1709894914614,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Pilot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "46": {
+      "id": "46",
+      "name": "Swoops #46",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/46.png",
+      "dna": "3d496a86094cc12ca4e7dc8a3c3550c75dd4e136",
+      "edition": 46,
+      "date": 1709894915428,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Farmer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "47": {
+      "id": "47",
+      "name": "Swoops #47",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/47.png",
+      "dna": "d78314884afbbf7357ca9a29fd1a54d83a849144",
+      "edition": 47,
+      "date": 1709894916399,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Pirate ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Space Helmet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "48": {
+      "id": "48",
+      "name": "Swoops #48",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/48.png",
+      "dna": "b723d66ae7fa1b9fb2e61fc365711a105815ce84",
+      "edition": 48,
+      "date": 1709894917386,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ice ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Mamba ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rainbow Mohawk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "49": {
+      "id": "49",
+      "name": "Swoops #49",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/49.png",
+      "dna": "92441b9a1a67774d50cddec141573dc30a43d782",
+      "edition": 49,
+      "date": 1709894918212,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Tank Hoodie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "50": {
+      "id": "50",
+      "name": "Swoops #50",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/50.png",
+      "dna": "1daabbf6d0500c2e62d8d1f5bff62db11bd943b9",
+      "edition": 50,
+      "date": 1709894919081,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Coloured ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sailor ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "51": {
+      "id": "51",
+      "name": "Swoops #51",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/51.png",
+      "dna": "1e0d934fb6f4ed34f1d41032582f4107f0512baf",
+      "edition": 51,
+      "date": 1709894919712,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Clown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "52": {
+      "id": "52",
+      "name": "Swoops #52",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/52.png",
+      "dna": "604993f32a4585b3c57d19b037f579c5fb88e935",
+      "edition": 52,
+      "date": 1709894920517,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "60s Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "53": {
+      "id": "53",
+      "name": "Swoops #53",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/53.png",
+      "dna": "45d4dd666fd00f45485d2fc93bfd76baf590d894",
+      "edition": 53,
+      "date": 1709894921298,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Navy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "54": {
+      "id": "54",
+      "name": "Swoops #54",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/54.png",
+      "dna": "201cde87d4f36e961e55e3e183cdabbb36b3f9c6",
+      "edition": 54,
+      "date": 1709894922221,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "55": {
+      "id": "55",
+      "name": "Swoops #55",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/55.png",
+      "dna": "e1185d396775f65be2b96cfb1aa4ebcb0c0a6ba4",
+      "edition": 55,
+      "date": 1709894923024,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "MJ ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bleach Blond ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "56": {
+      "id": "56",
+      "name": "Swoops #56",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/56.png",
+      "dna": "22fa928e09dc6a8451eb334db098be697a95f947",
+      "edition": 56,
+      "date": 1709894923751,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Clown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Cosmic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Jester ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "57": {
+      "id": "57",
+      "name": "Swoops #57",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/57.png",
+      "dna": "a9ca4780c859bdac5804991e260d140ec61dd973",
+      "edition": 57,
+      "date": 1709894924502,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Purple ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rainbow Mohawk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "58": {
+      "id": "58",
+      "name": "Swoops #58",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/58.png",
+      "dna": "20a6fa0422b388e1e18c39d60b81303fe434232e",
+      "edition": 58,
+      "date": 1709894925280,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "59": {
+      "id": "59",
+      "name": "Swoops #59",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/59.png",
+      "dna": "f6e1147f6018a770cae5764cb9cc4fbfd848e004",
+      "edition": 59,
+      "date": 1709894926134,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crocodile Dundee ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "60": {
+      "id": "60",
+      "name": "Swoops #60",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/60.png",
+      "dna": "a48b7e359bf8911ee4c0c15208adecf7d4dc70e4",
+      "edition": 60,
+      "date": 1709894926897,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "King of Pop ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "61": {
+      "id": "61",
+      "name": "Swoops #61",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/61.png",
+      "dna": "ec6c765b88bc57dbcaa3547bfbbb3711e4a49f36",
+      "edition": 61,
+      "date": 1709894927757,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Bikie Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "King of Pop ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "62": {
+      "id": "62",
+      "name": "Swoops #62",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/62.png",
+      "dna": "944659c412adc08b15a8332e195f37f204b2e115",
+      "edition": 62,
+      "date": 1709894928531,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "63": {
+      "id": "63",
+      "name": "Swoops #63",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/63.png",
+      "dna": "5620e6eab207392b018a971f81a0fdc0fcb70b72",
+      "edition": 63,
+      "date": 1709894929321,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Purple ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Jester ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "64": {
+      "id": "64",
+      "name": "Swoops #64",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/64.png",
+      "dna": "05152c804d8f9388a65cd98b422f1f39dc04e99e",
+      "edition": 64,
+      "date": 1709894930146,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Pilot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandana ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "65": {
+      "id": "65",
+      "name": "Swoops #65",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/65.png",
+      "dna": "066c9829fb438e6860ad76adc74df72fd66061db",
+      "edition": 65,
+      "date": 1709894930943,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Navy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandages ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "66": {
+      "id": "66",
+      "name": "Swoops #66",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/66.png",
+      "dna": "30e44cee68ede745759d8603b76433a3c1a30da8",
+      "edition": 66,
+      "date": 1709894931798,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Topgun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crocodile Dundee ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "67": {
+      "id": "67",
+      "name": "Swoops #67",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/67.png",
+      "dna": "eae21baab0b753c71de49469d8bdcec85764329b",
+      "edition": 67,
+      "date": 1709894932614,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crocodile Dundee ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "68": {
+      "id": "68",
+      "name": "Swoops #68",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/68.png",
+      "dna": "4f4415e2c94d4934f837b1b7b5f57c83f80d30df",
+      "edition": 68,
+      "date": 1709894933332,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Clown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Party ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Branded Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "69": {
+      "id": "69",
+      "name": "Swoops #69",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/69.png",
+      "dna": "a61686430d2f91a148d7f1b30dfa33ff7a08fce5",
+      "edition": 69,
+      "date": 1709894934077,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Farmer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Dreads ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "70": {
+      "id": "70",
+      "name": "Swoops #70",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/70.png",
+      "dna": "0e61fbfc91186887c051ea5856cb6d0d4a01c9b8",
+      "edition": 70,
+      "date": 1709894934854,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Golden Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Topgun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "71": {
+      "id": "71",
+      "name": "Swoops #71",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/71.png",
+      "dna": "4c34620650bb104376940567fa35929475bdb200",
+      "edition": 71,
+      "date": 1709894935576,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Dreads ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "72": {
+      "id": "72",
+      "name": "Swoops #72",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/72.png",
+      "dna": "f11080c148b678320427e4aed0e7a46091797477",
+      "edition": 72,
+      "date": 1709894936214,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "73": {
+      "id": "73",
+      "name": "Swoops #73",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/73.png",
+      "dna": "4ca87d03c8b15081d24e3a4d201a5a5f5bf61d38",
+      "edition": 73,
+      "date": 1709894936943,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Coloured ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Elvis ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "74": {
+      "id": "74",
+      "name": "Swoops #74",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/74.png",
+      "dna": "fdefb4b0b43557f9a6c3ad8edb22736c8b9eccbf",
+      "edition": 74,
+      "date": 1709894937717,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Leopard Pink ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "60s Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "75": {
+      "id": "75",
+      "name": "Swoops #75",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/75.png",
+      "dna": "247a2e099d23f125a163fa7d45158502429106ed",
+      "edition": 75,
+      "date": 1709894938330,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Mustard ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandages ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "76": {
+      "id": "76",
+      "name": "Swoops #76",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/76.png",
+      "dna": "848f6b551b26c7277567430f4f7f7f1716a7bf08",
+      "edition": 76,
+      "date": 1709894939104,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Mamba ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bleach Blond ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "77": {
+      "id": "77",
+      "name": "Swoops #77",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/77.png",
+      "dna": "7c6a35fad382369bd38f729fa9f80fbecad32d8b",
+      "edition": 77,
+      "date": 1709894939804,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Dinner Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "78": {
+      "id": "78",
+      "name": "Swoops #78",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/78.png",
+      "dna": "6b1cb3354904f894f571d6ade79ac81405bc8a3e",
+      "edition": 78,
+      "date": 1709894940470,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Farmer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Fries ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sailor ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "79": {
+      "id": "79",
+      "name": "Swoops #79",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/79.png",
+      "dna": "ac197c09753f148f6c160affe7f1ab343b953493",
+      "edition": 79,
+      "date": 1709894941139,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandages ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "80": {
+      "id": "80",
+      "name": "Swoops #80",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/80.png",
+      "dna": "43c1c773c9a069e0c8af5885d80defa1655d05ee",
+      "edition": 80,
+      "date": 1709894941861,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Coloured ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Tank Hoodie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Bubble ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Spinner ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "81": {
+      "id": "81",
+      "name": "Swoops #81",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/81.png",
+      "dna": "26c86fcfb246f9c0c802ae25ce142f7f0062c6ce",
+      "edition": 81,
+      "date": 1709894942506,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Trippy Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Mullet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "82": {
+      "id": "82",
+      "name": "Swoops #82",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/82.png",
+      "dna": "3b880cc6e5515b040a4d09639bd06a19cefb6a83",
+      "edition": 82,
+      "date": 1709894943324,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cat Scratch ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bandana ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "83": {
+      "id": "83",
+      "name": "Swoops #83",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/83.png",
+      "dna": "d49c29222c9965a69027daa7889859395fd60949",
+      "edition": 83,
+      "date": 1709894944042,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Hoodie Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Space Helmet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "84": {
+      "id": "84",
+      "name": "Swoops #84",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/84.png",
+      "dna": "8e24d7e07f4557faee355d5bc3ce980cd2a8646e",
+      "edition": 84,
+      "date": 1709894944755,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lemon ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Aviators Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Aviator ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "85": {
+      "id": "85",
+      "name": "Swoops #85",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/85.png",
+      "dna": "e7c6e23eaca038bf33c2481917d2c9a18b773418",
+      "edition": 85,
+      "date": 1709894945533,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Juvenile ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Dinner Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "86": {
+      "id": "86",
+      "name": "Swoops #86",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/86.png",
+      "dna": "1f049b9e7760d442620fd1b73ac906500da318d1",
+      "edition": 86,
+      "date": 1709894946157,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Cosmic Feathers ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Eplays 80s Tracksuit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "87": {
+      "id": "87",
+      "name": "Swoops #87",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/87.png",
+      "dna": "53af8c795c360dd229c67d7b8281c81296b1ddf2",
+      "edition": 87,
+      "date": 1709894946864,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Alien ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Checkered ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Bleach Blond ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "88": {
+      "id": "88",
+      "name": "Swoops #88",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/88.png",
+      "dna": "45adc7ce105768c61fa9da45b55846d4a49a062d",
+      "edition": 88,
+      "date": 1709894947489,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Smoke ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Mamba ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "White ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Red ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Space Helmet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "89": {
+      "id": "89",
+      "name": "Swoops #89",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/89.png",
+      "dna": "2a71dd27fae6eef8915172579d8af66ac605ca7e",
+      "edition": 89,
+      "date": 1709894948134,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Branded Tee Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Pirate ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Branded Beanie ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "90": {
+      "id": "90",
+      "name": "Swoops #90",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/90.png",
+      "dna": "7ae14313dce3c10bf9fcb0092a4b5e9784c022ee",
+      "edition": 90,
+      "date": 1709894948889,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Psychedelic ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Man Bun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "91": {
+      "id": "91",
+      "name": "Swoops #91",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/91.png",
+      "dna": "6d284965870416da11520c3126d934940c61221e",
+      "edition": 91,
+      "date": 1709894949566,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Lazer ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "King of Pop ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "92": {
+      "id": "92",
+      "name": "Swoops #92",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/92.png",
+      "dna": "1687e0d8105651054faea18a05596ba9c1660e19",
+      "edition": 92,
+      "date": 1709894950297,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pearl ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Puffer Two Tone ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Trippy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sailor ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "93": {
+      "id": "93",
+      "name": "Swoops #93",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/93.png",
+      "dna": "fb11870879d5e69704131d48cf8a0f1abe9a56ef",
+      "edition": 93,
+      "date": 1709894950987,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Ice ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "60s Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Mixed ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cockroach ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Afro ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "94": {
+      "id": "94",
+      "name": "Swoops #94",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/94.png",
+      "dna": "06cbaa20e0ac034d4d01594b0e735aac866288b3",
+      "edition": 94,
+      "date": 1709894951823,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Dinner Suit ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Yellow ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Worm ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "95": {
+      "id": "95",
+      "name": "Swoops #95",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/95.png",
+      "dna": "6c341df1dfaf7d862435dee43cd2b8733edaddfd",
+      "edition": 95,
+      "date": 1709894952827,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Midnight ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Two Tone Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orange ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "96": {
+      "id": "96",
+      "name": "Swoops #96",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/96.png",
+      "dna": "f8a5dabb6c271def1d72a91774c99ac7e6a1053c",
+      "edition": 96,
+      "date": 1709894953754,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Musk ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Gold ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Twig Silver ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Man Bun ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "97": {
+      "id": "97",
+      "name": "Swoops #97",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/97.png",
+      "dna": "0690050604c1954cf56eeed71934334ff7dfed5d",
+      "edition": 97,
+      "date": 1709894954585,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Grass ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Coloured ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Navy ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Open Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Mullet ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "98": {
+      "id": "98",
+      "name": "Swoops #98",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/98.png",
+      "dna": "c2c679dd7d998d63ce4e097a99d49436aaab02bd",
+      "edition": 98,
+      "date": 1709894955486,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Baby Blue ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Camo ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Flanny Vest ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Sunnies ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Backwards Cap ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    },
+    "99": {
+      "id": "99",
+      "name": "Swoops #99",
+      "description": "Dummy description",
+      "image": "https://nftstorage.link/ipfs/bafybeiammra4vd3lnmtj5fcr2cdwji66kyrwsakvfin6whkpw7c4nrpaze/99.png",
+      "dna": "fb908dc0da7b380303ece0e4101c8faecbe98463",
+      "edition": 99,
+      "date": 1709894956268,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Soft Terra ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Body",
+          "value": "Tatts Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Clown ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Beak",
+          "value": "Squawk Black ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Orb ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Blood ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        },
+        {
+          "trait_type": "Head",
+          "value": "Trucker ",
+          "score": 99.00000000000001,
+          "traitCount": 99
+        }
+      ],
+      "compiler": "HashLips Art Engine",
+      "rarity": {
+        "totalRarityScore": 693.0000000000001,
+        "rank": 1
+      }
+    }
+  },
+  "traits": {
+    "allTrait": {
+      "Background": {
+        "Soft Terra ": 12,
+        "sum": 99,
+        "Lemon ": 8,
+        "Pearl ": 14,
+        "Musk ": 9,
+        "Baby Blue ": 13,
+        "Psychedelic ": 9,
+        "Grass ": 12,
+        "Midnight ": 12,
+        "Smoke ": 10
+      },
+      "Body": {
+        "Zombie ": 7,
+        "sum": 99,
+        "Cosmic Feathers ": 12,
+        "Silver Feathers ": 3,
+        "Raven ": 2,
+        "Tatts Alien ": 7,
+        "Leopard ": 5,
+        "Robot ": 9,
+        "Ice ": 5,
+        "Camo ": 7,
+        "Tatts Gold ": 5,
+        "Tatts Pink ": 5,
+        "Alien ": 4,
+        "Trippy Feathers ": 8,
+        "Tatts Coloured ": 5,
+        "Golden Feathers ": 4,
+        "Tatts Black ": 7,
+        "Leopard Pink ": 3,
+        "Juvenile ": 1
+      },
+      "Clothes": {
+        "Branded Tee White ": 6,
+        "sum": 99,
+        "Puffer Black ": 5,
+        "Eplays 80s Tracksuit ": 5,
+        "Flanny Vest ": 9,
+        "Topgun ": 4,
+        "Hoodie Red ": 6,
+        "Navy ": 5,
+        "Two Tone Vest ": 11,
+        "Swoops Guernsey ": 3,
+        "60s Suit ": 4,
+        "Bikie Vest ": 4,
+        "Farmer ": 5,
+        "Tank Hoodie ": 3,
+        "MJ ": 2,
+        "Puffer Two Tone ": 6,
+        "Checkered ": 2,
+        "Branded Tee Black ": 2,
+        "Spacesuit ": 1,
+        "Hoodie Mustard ": 2,
+        "Pilot ": 2,
+        "Mamba ": 3,
+        "Clown ": 4,
+        "Hoodie Purple ": 2,
+        "Dinner Suit ": 3
+      },
+      "Beak": {
+        "Silver ": 13,
+        "sum": 99,
+        "Squawk Gold ": 12,
+        "Squawk Trippy ": 11,
+        "Open Cosmic ": 7,
+        "Squawk Black ": 9,
+        "Trippy ": 11,
+        "Black ": 11,
+        "White ": 8,
+        "Open Black ": 9,
+        "Gold ": 8
+      },
+      "Eyes": {
+        "Mixed ": 6,
+        "sum": 99,
+        "Blue ": 9,
+        "Lazer ": 11,
+        "3D ": 5,
+        "Pirate ": 5,
+        "Sunnies ": 9,
+        "Orb ": 6,
+        "Green ": 4,
+        "Orange ": 7,
+        "Aviators Silver ": 6,
+        "Yellow ": 11,
+        "Aviators Gold ": 5,
+        "Cat Scratch ": 6,
+        "Red ": 4,
+        "Bloodshot ": 5
+      },
+      "Mouth": {
+        "Bubble ": 12,
+        "sum": 99,
+        "Cockroach ": 10,
+        "Party ": 6,
+        "Pipe ": 9,
+        "Twig Silver ": 9,
+        "Blood ": 12,
+        "Fries ": 7,
+        "Twig Gold ": 10,
+        "Twig ": 17,
+        "Worm ": 7
+      },
+      "Head": {
+        "Man Bun ": 4,
+        "sum": 99,
+        "King of Pop ": 4,
+        "Jester ": 5,
+        "Aussie Cork ": 3,
+        "Trucker ": 10,
+        "Backwards Cap ": 9,
+        "Dreads ": 4,
+        "Afro ": 6,
+        "Beanie ": 2,
+        "Aviator ": 3,
+        "Elvis ": 6,
+        "Branded Beanie ": 5,
+        "Crown ": 6,
+        "Space Helmet ": 4,
+        "Bleach Blond ": 5,
+        "Crocodile Dundee ": 4,
+        "Rainbow Mohawk ": 4,
+        "Halo ": 2,
+        "Bandana ": 3,
+        "Bandages ": 4,
+        "Sailor ": 3,
+        "Spinner ": 1,
+        "Mullet ": 2
+      }
+    },
+    "attrCount": {
+      "7": 99
+    }
+  }
+}

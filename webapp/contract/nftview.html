@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>NFT Viewer</title>
+		<style>
+			.nftCard {
+				border: 1px solid #ccc;
+				border-radius: 8px;
+				padding: 16px;
+				margin-bottom: 16px;
+				width: calc(
+					20% - 32px
+				); /* 20% width for each card with 16px margin on each side */
+				margin-right: 16px;
+				box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+				float: left; /* Float the cards to left to arrange them horizontally */
+			}
+			.nftImage {
+				max-width: 100%;
+				border-radius: 8px;
+			}
+			.row::after {
+				content: '';
+				display: table;
+				clear: both; /* Clear floats after every row */
+			}
+		</style>
+		<script src="https://cdn.jsdelivr.net/npm/web3@1.6.0/dist/web3.min.js"></script>
+	</head>
+	<body>
+		<h1>NFT Viewer</h1>
+		<div id="nftContainer"></div>
+
+		<script>
+			// ABI for the ERC721 NFT contract
+			const YOUR_NFT_CONTRACT_ABI = [
+				{
+					constant: true,
+					inputs: [{ name: '_owner', type: 'address' }],
+					name: 'balanceOf',
+					outputs: [{ name: 'balance', type: 'uint256' }],
+					type: 'function',
+				},
+				{
+					constant: true,
+					inputs: [{ name: '_tokenId', type: 'uint256' }],
+					name: 'tokenURI',
+					outputs: [{ name: '', type: 'string' }],
+					type: 'function',
+				},
+				{
+					constant: true,
+					inputs: [
+						{ name: '_owner', type: 'address' },
+						{ name: '_index', type: 'uint256' },
+					],
+					name: 'tokenOfOwnerByIndex',
+					outputs: [{ name: 'tokenId', type: 'uint256' }],
+					type: 'function',
+				},
+			];
+
+			// Check if Web3 is injected by the browser
+			if (typeof window.ethereum !== 'undefined') {
+				const web3 = new Web3(window.ethereum);
+
+				// Request account access if needed
+				window.ethereum
+					.request({ method: 'eth_requestAccounts' })
+					.then(function () {
+						// Get the user's address
+						web3.eth
+							.getAccounts()
+							.then((accounts) => {
+								const userAddress =
+									'0x5b4a58806086fc98885Ee57ADe4db240D4ae4e97';
+
+								// Replace 'YourNFTContractAddress' with the actual address of your NFT contract
+								const nftContract = new web3.eth.Contract(
+									YOUR_NFT_CONTRACT_ABI,
+									'0x4b8619c321EfB7792972Be4Fc0BA1D6d5cC9Ab60'
+								);
+
+								// Query NFTs owned by the user
+								nftContract.methods
+									.balanceOf(userAddress)
+									.call()
+									.then((numNFTs) => {
+										console.log('Number of NFTs owned:', numNFTs);
+
+										const nftPromises = [];
+										for (let i = 0; i < numNFTs; i++) {
+											nftPromises.push(
+												nftContract.methods
+													.tokenOfOwnerByIndex(userAddress, i)
+													.call()
+											);
+										}
+
+										Promise.all(nftPromises)
+											.then((nftIds) => {
+												console.log('NFT IDs owned:', nftIds);
+
+												const nftDataPromises = nftIds.map((id) => {
+													return nftContract.methods
+														.tokenURI(id)
+														.call()
+														.then((tokenURI) => {
+															return { tokenId: id, tokenURI: tokenURI };
+														});
+												});
+
+												Promise.all(nftDataPromises)
+													.then((metadataUrls) => {
+														console.log('Metadata URLs:', metadataUrls);
+
+														metadataUrls.forEach((data, index) => {
+															fetch(data.tokenURI)
+																.then((response) => {
+																	if (!response.ok) {
+																		throw new Error(
+																			'Network response was not ok'
+																		);
+																	}
+																	return response.json();
+																})
+																.then((metadata) => {
+																	console.log('NFT Metadata:', metadata);
+																	// Resolve IPFS URL
+																	const imageUrl = metadata.image.replace(
+																		'ipfs://',
+																		'https://ipfs.io/ipfs/'
+																	);
+																	// Display NFT metadata on the webpage
+																	const nftCard = document.createElement('div');
+																	nftCard.classList.add('nftCard');
+																	nftCard.innerHTML = `
+                                                <h3>Token ID: ${data.tokenId}</h3>
+                                                <h3>${metadata.name}</h3>
+                                                <img class="nftImage" src="${imageUrl}" alt="${metadata.name}">
+                                                <p>Description: ${metadata.description}</p>
+                                            `;
+																	if (index % 5 === 0) {
+																		const row = document.createElement('div');
+																		row.classList.add('row');
+																		document
+																			.getElementById('nftContainer')
+																			.appendChild(row);
+																	}
+																	document
+																		.querySelector(
+																			'#nftContainer .row:last-child'
+																		)
+																		.appendChild(nftCard);
+																})
+																.catch((error) => {
+																	console.error(
+																		'Error fetching NFT metadata:',
+																		error
+																	);
+																});
+														});
+													})
+													.catch((error) => {
+														console.error('Error fetching NFT data:', error);
+													});
+											})
+											.catch((error) => {
+												console.error('Error fetching NFT IDs:', error);
+											});
+									})
+									.catch((error) => {
+										console.error('Error fetching NFT balance:', error);
+									});
+							})
+							.catch((error) => {
+								console.error('Error fetching accounts:', error);
+							});
+					})
+					.catch((error) => {
+						console.error('Error requesting account access:', error);
+					});
+			} else {
+				console.log(
+					'Please install MetaMask or another Ethereum wallet provider.'
+				);
+			}
+		</script>
+	</body>
+</html>

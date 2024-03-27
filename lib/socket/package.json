@@ -1,0 +1,18 @@
+{
+	"name": "@marketplace/socket",
+	"version": "0.1.0",
+	"license": "MIT",
+	"exports": {
+		"./server": "./src/server.ts",
+		"./client": "./src/client.ts",
+		"./types": "./src/types.ts"
+	},
+	"scripts": {
+		"clean": "git clean -xdf dist .turbo node_modules",
+		"with-env": "dotenv -e ../.env --"
+	},
+	"dependencies": {
+		"socket.io": "^4.7.4",
+		"socket.io-client": "^4.7.4"
+	}
+}

@@ -1,0 +1,145 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../../../prisma-client"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Collection {
+  id       String @id @default(uuid())
+  address  String @unique
+  logo     String
+  banner   String
+  slug     String
+  metadata Json?
+  traits   Json?
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  logoMedia        Media             @relation(name: "logoMedia", fields: [logo], references: [id], onDelete: NoAction)
+  bannerMedia      Media             @relation(name: "bannerMedia", fields: [banner], references: [id], onDelete: NoAction)
+  collectionTokens CollectionToken[]
+  queue            Queue[]
+
+  @@index([id, address, slug])
+  @@map("tbl_collection")
+}
+
+model CollectionToken {
+  id           String @id @default(uuid())
+  tokenId      String @map("token_id")
+  collectionId String @map("collection_id")
+  image        String
+  name         String
+  rarity       Json
+  metadata     Json
+  attributes   Json[]
+
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  collection     Collection                     @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  activity       Activity[]
+  latestActivity LatestCollectionTokenActivity?
+
+  @@unique([collectionId, tokenId])
+  @@index([id, tokenId, collectionId])
+  @@map("tbl_collection_token")
+}
+
+model LatestCollectionTokenActivity {
+  collectionTokenId String          @unique @map("collection_token_id")
+  collectionToken   CollectionToken @relation(fields: [collectionTokenId], references: [id], onDelete: Cascade)
+  activityId        String          @unique @map("activity_id")
+  activity          Activity        @relation(fields: [activityId], references: [id], onDelete: Cascade)
+
+  @@id([collectionTokenId, activityId])
+  @@index([collectionTokenId, activityId])
+  @@map("tbl_latest_collection_token_activity")
+}
+
+enum ACTIVITY_TYPE {
+  SOLD
+  WITHDRAW
+  LISTING
+}
+
+model Activity {
+  id                String        @id @default(uuid())
+  collectionTokenId String?       @map("collection_token_id")
+  tokenId           String
+  contractAddress   String        @map("contract_address")
+  listingId         String?
+  price             String
+  seller            String
+  buyer             String?
+  active            Boolean       @default(false)
+  type              ACTIVITY_TYPE
+  createdAt         DateTime      @default(now()) @map("created_at")
+  updatedAt         DateTime      @updatedAt @map("updated_at")
+
+  notification    Notification?
+  latestActivity  LatestCollectionTokenActivity?
+  collectionToken CollectionToken?               @relation(fields: [collectionTokenId], references: [id], onDelete: SetNull)
+
+  @@unique([listingId, type])
+  @@index([collectionTokenId, tokenId, contractAddress, listingId, type])
+  @@map("tbl_activity")
+}
+
+model Media {
+  id String @id @default(uuid())
+
+  path             String?
+  url              String
+  collectionLogo   Collection[]  @relation(name: "logoMedia")
+  collectionBanner Collection[]  @relation(name: "bannerMedia")
+  userProfile      UserProfile[] @relation(name: "userProfile")
+
+  @@index([id])
+  @@map("tbl_media")
+}
+
+model Queue {
+  id           String      @id @default(uuid())
+  collectionId String      @unique @map("collection_id")
+  status       QueueStatus @default(TODO)
+
+  collection Collection @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+
+  @@index([id, collectionId, status])
+  @@map("tbl_queue")
+}
+
+enum QueueStatus {
+  TODO
+  IN_PROGRESS
+  FAILED
+  DONE
+}
+
+model UserProfile {
+  id          String  @id @default(uuid())
+  userAddress String  @unique @map("user_address")
+  imageId     String? @map("image_id")
+  image       Media?  @relation(name: "userProfile", fields: [imageId], references: [id], onDelete: Cascade)
+
+  @@map("tbl_user_profile")
+}
+
+model Notification {
+  id         String  @id @default(uuid())
+  activityId String  @unique @map("activity_id")
+  seen       Boolean @default(false)
+
+  activity Activity @relation(fields: [activityId], references: [id], onDelete: Cascade)
+
+  @@map("tbl_notification")
+}
